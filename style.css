@@ -1,0 +1,10 @@
+.mlsandbox .h5p-iframe-wrapper h5p-navigation-menu {
+  color: #D73F09;
+}
+.mlsandbox .h5p-iframe-wrapper page-title {
+  text-transform: uppercase;
+  weight: 800;
+}
+.mlsandbox .h5p-iframe-wrapper li {
+  padding-bottom: 1em;
+}
